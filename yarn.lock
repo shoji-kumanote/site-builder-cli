@@ -946,9 +946,9 @@
   version "1.0.1"
   resolved "git+https://github.com/shoji-kumanote/eslint-config.git#ec3668442e999576970af5d277c61c17df3a9f0d"
 
-"@kumanote/site-builder@git+https://github.com/shoji-kumanote/site-builder.git#v1.0.3":
-  version "1.0.3"
-  resolved "git+https://github.com/shoji-kumanote/site-builder.git#1f590fc38424af808d3620448b9d08c82cee6b4d"
+"@kumanote/site-builder@git+https://github.com/shoji-kumanote/site-builder.git#v1.0.4":
+  version "1.0.4"
+  resolved "git+https://github.com/shoji-kumanote/site-builder.git#cfe9a8778bbfe85129091fc39e3763b1ffb399eb"
   dependencies:
     "@babel/core" "^7.17.0"
     "@babel/preset-env" "^7.16.11"
