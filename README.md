@@ -1,4 +1,4 @@
-# @kumanote/site-builder
+# @kumanote/site-builder-cli
 
 サイト制作用ツールです。以下のような機能を持ちます。
 
