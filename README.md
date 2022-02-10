@@ -1,6 +1,6 @@
 # @kumanote/site-builder-cli
 
-サイト制作用ツールです。以下のような機能を持ちます。
+[@kumanote/site-builder](https://github.com/shoji-kumanote/site-builder) を使用したサイト制作用ツールです。以下のような機能を持ちます。
 
 - ビルド機能
   - Sass のコンパイル
