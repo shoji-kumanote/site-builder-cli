@@ -4,7 +4,8 @@
   "main": "lib/index",
   "bin": "bin/site-builder",
   "license": "MIT",
-  "private": true,
+  "repository": "git@github.com:shoji-kumanote/site-builder-cli.git",
+  "author": "shoji-kumanote <h-shoji@kumanote.info>",
   "scripts": {
     "ts-check": "tsc --noEmit",
     "build": "node esbuild.config.mjs",
