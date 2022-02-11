@@ -942,13 +942,13 @@
     "@jridgewell/resolve-uri" "^3.0.3"
     "@jridgewell/sourcemap-codec" "^1.4.10"
 
-"@kumanote/eslint-config@git+https://github.com/shoji-kumanote/eslint-config.git#v1.0.1":
+"@kumanote/eslint-config@git+https://github.com/shoji-kumanote/eslint-config.git#main":
   version "1.0.1"
   resolved "git+https://github.com/shoji-kumanote/eslint-config.git#ec3668442e999576970af5d277c61c17df3a9f0d"
 
-"@kumanote/site-builder@git+https://github.com/shoji-kumanote/site-builder.git#v1.0.4":
-  version "1.0.4"
-  resolved "git+https://github.com/shoji-kumanote/site-builder.git#cfe9a8778bbfe85129091fc39e3763b1ffb399eb"
+"@kumanote/site-builder@git+https://github.com/shoji-kumanote/site-builder.git#main":
+  version "1.0.5"
+  resolved "git+https://github.com/shoji-kumanote/site-builder.git#445a287de05f1fac696660675048897c47e9369f"
   dependencies:
     "@babel/core" "^7.17.0"
     "@babel/preset-env" "^7.16.11"

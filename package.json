@@ -12,11 +12,11 @@
     "watch": "node esbuild.config.mjs --watch"
   },
   "dependencies": {
-    "@kumanote/site-builder": "git+https://github.com/shoji-kumanote/site-builder.git#v1.0.4",
+    "@kumanote/site-builder": "git+https://github.com/shoji-kumanote/site-builder.git#main",
     "yargs": "^17.3.1"
   },
   "devDependencies": {
-    "@kumanote/eslint-config": "git+https://github.com/shoji-kumanote/eslint-config.git#v1.0.1",
+    "@kumanote/eslint-config": "git+https://github.com/shoji-kumanote/eslint-config.git#main",
     "@types/node": "^17.0.14",
     "@types/yargs": "^17.0.8",
     "@typescript-eslint/eslint-plugin": "^5.5.0",
