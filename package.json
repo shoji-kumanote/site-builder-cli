@@ -12,7 +12,7 @@
     "watch": "node esbuild.config.mjs --watch"
   },
   "dependencies": {
-    "@kumanote/site-builder": "git+https://github.com/shoji-kumanote/site-builder.git#main",
+    "@kumanote/site-builder": "git+https://github.com/shoji-kumanote/site-builder.git#v1.1.0",
     "yargs": "^17.3.1"
   },
   "devDependencies": {
