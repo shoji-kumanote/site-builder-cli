@@ -946,9 +946,9 @@
   version "1.0.1"
   resolved "git+https://github.com/shoji-kumanote/eslint-config.git#ec3668442e999576970af5d277c61c17df3a9f0d"
 
-"@kumanote/site-builder@git+https://github.com/shoji-kumanote/site-builder.git#v1.1.2":
+"@kumanote/site-builder@git+https://github.com/shoji-kumanote/site-builder.git#v1.2.0":
   version "1.1.2"
-  resolved "git+https://github.com/shoji-kumanote/site-builder.git#bc8da03bd4335261b53075ababee8b5f297548e6"
+  resolved "git+https://github.com/shoji-kumanote/site-builder.git#a644a7a31fa71d9c85716a881e469a0cea68acae"
   dependencies:
     "@babel/core" "^7.17.0"
     "@babel/preset-env" "^7.16.11"
@@ -961,6 +961,7 @@
     gifsicle "^6.1.0"
     globby "^13.1.0"
     handlebars "^4.7.7"
+    image-size "^1.0.2"
     jpegtran-bin "^6.0.1"
     js-yaml "^4.1.0"
     micromatch "^4.0.4"
@@ -2667,6 +2668,13 @@ ignore@^5.1.8, ignore@^5.2.0:
   resolved "https://registry.yarnpkg.com/ignore/-/ignore-5.2.0.tgz#6d3bac8fa7fe0d45d9f9be7bac2fc279577e345a"
   integrity sha512-CmxgYGiEPCLhfLnpPp1MoRmifwEIOgjcHXxOBjv7mY96c+eWScsOP9c112ZyLdWHi0FxHjI+4uVhKYp/gcdRmQ==
 
+image-size@^1.0.2:
+  version "1.0.2"
+  resolved "https://registry.yarnpkg.com/image-size/-/image-size-1.0.2.tgz#d778b6d0ab75b2737c1556dd631652eb963bc486"
+  integrity sha512-xfOoWjceHntRb3qFCrh5ZFORYH8XCdYpASltMhZ/Q0KZiOwjdE/Yl2QCiWdwD+lygV5bMCvauzgu5PxBX/Yerg==
+  dependencies:
+    queue "6.0.2"
+
 immutable@^4.0.0:
   version "4.0.0"
   resolved "https://registry.yarnpkg.com/immutable/-/immutable-4.0.0.tgz#b86f78de6adef3608395efb269a91462797e2c23"
@@ -3491,6 +3499,13 @@ queue-microtask@^1.2.2:
   version "1.2.3"
   resolved "https://registry.yarnpkg.com/queue-microtask/-/queue-microtask-1.2.3.tgz#4929228bbc724dfac43e0efb058caf7b6cfb6243"
   integrity sha512-NuaNSa6flKT5JaSYQzJok04JzTL1CA6aGhv5rfLW3PgqA+M2ChpZQnAC8h8i4ZFkBS8X5RqkDBHA7r4hej3K9A==
+
+queue@6.0.2:
+  version "6.0.2"
+  resolved "https://registry.yarnpkg.com/queue/-/queue-6.0.2.tgz#b91525283e2315c7553d2efa18d83e76432fed65"
+  integrity sha512-iHZWu+q3IdFZFX36ro/lKBkSvfkztY5Y7HMiPlOUjhupPcG2JMfst2KKEpu5XndviX/3UhFbRngUPNKtgvtZiA==
+  dependencies:
+    inherits "~2.0.3"
 
 readable-stream@^2.0.0, readable-stream@^2.3.0, readable-stream@^2.3.5:
   version "2.3.7"
