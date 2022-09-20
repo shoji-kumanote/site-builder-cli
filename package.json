@@ -1,6 +1,6 @@
 {
   "name": "@kumanote/site-builder-cli",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "main": "lib/index",
   "bin": "bin/site-builder",
   "license": "MIT",
@@ -12,7 +12,7 @@
     "watch": "node esbuild.config.mjs --watch"
   },
   "dependencies": {
-    "@kumanote/site-builder": "git+https://github.com/shoji-kumanote/site-builder.git#v1.2.0",
+    "@kumanote/site-builder": "git+https://github.com/shoji-kumanote/site-builder.git#v1.2.1",
     "yargs": "^17.3.1"
   },
   "devDependencies": {
