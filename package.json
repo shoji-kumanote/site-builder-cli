@@ -1,6 +1,6 @@
 {
   "name": "@kumanote/site-builder-cli",
-  "version": "1.2.2",
+  "version": "1.2.3",
   "main": "lib/index",
   "bin": "bin/site-builder",
   "license": "MIT",
